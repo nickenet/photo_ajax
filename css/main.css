@@ -1,0 +1,9 @@
+.gallery{
+    width: 80%;
+    height: 400px;
+    margin: 10px auto;
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 10px;
+}
